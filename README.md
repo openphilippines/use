@@ -30,7 +30,7 @@ What Pinoy Tech Hackers use.
 
 3. Send a pull request.
 
-4. Create an orphaned `master` branch and add a `README.md` that will contain your setup:
+4. Create an orphan `master` branch and add a `README.md` that will contain your setup:
 
   ```bash
   git checkout --orphan master
