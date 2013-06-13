@@ -52,5 +52,5 @@ approved and merged.
 
 ## Powered by
 
-Flatdoc by @rstacruz
-Jekyll by @mojombo
+* Flatdoc by @rstacruz
+* Jekyll by @mojombo
