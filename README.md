@@ -13,7 +13,7 @@ What Pinoy Tech Hackers use.
 
   <script>
   Flatdoc.run({
-    fetcher: Flatdoc.github('username/repo')
+    fetcher: Flatdoc.github('username/use')
   });
   </script>
   ```
