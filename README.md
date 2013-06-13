@@ -18,7 +18,7 @@ What Pinoy Tech Hackers use.
   </script>
   ```
 
-2. Also add yourself to `phackers.md`:
+2. Add yourself to `phackers.md`:
 
   ```markdown
   ## [Your Name](username.html)
