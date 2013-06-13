@@ -28,7 +28,9 @@ What Pinoy Tech Hackers use.
   * Other links: http://otherlinks
   ```
 
-3. Create an orphaned `master` branch and add a `README.md` that will contain your setup:
+3. Send a pull request.
+
+4. Create an orphaned `master` branch and add a `README.md` that will contain your setup:
 
   ```bash
   git checkout --orphan master
@@ -41,6 +43,9 @@ What Pinoy Tech Hackers use.
 
   Check https://github.com/marksteve/use for an example.
 
-4. Go to Settings and set `master` as default branch.
+5. Go to Settings and set `master` as default branch. You're done!
 
-5. Send a pull request and your done.
+Note that you do the pull request with the `gh-pages` branch. Your `master`
+branch is your own. Its readme is fetched by Flatdoc dynamically making it
+possible for you to update your setup without waiting for pull requests to be
+approved and merged.
