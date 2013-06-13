@@ -49,3 +49,8 @@ Note that you do the pull request with the `gh-pages` branch. Your `master`
 branch is your own. Its readme is fetched by Flatdoc dynamically making it
 possible for you to update your setup without waiting for pull requests to be
 approved and merged.
+
+## Powered by
+
+Flatdoc by @rstacruz
+Jekyll by @mojombo
