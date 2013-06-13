@@ -39,6 +39,8 @@ What Pinoy Tech Hackers use.
   git push origin master
   ```
 
+  Check https://github.com/marksteve/use for an example.
+
 4. Go to Settings and set `master` as default branch.
 
 5. Send a pull request and your done.
