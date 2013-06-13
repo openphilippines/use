@@ -54,3 +54,4 @@ approved and merged.
 
 * Flatdoc by @rstacruz
 * Jekyll by @mojombo
+* Github Pages
