@@ -15,3 +15,7 @@
 * Github: https://github.com/ashier
 * Website http://ashier.com
 
+## [Ealden Escañan](ealden.html)
+
+* Github: https://github.com/ealden
+* Website: http://ealden.escanan.com
