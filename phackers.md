@@ -9,3 +9,9 @@
 
 * Github: https://github.com/jmibanez
 * Website http://jmibanez.com/
+
+## [Ashier de Leon](ashier.html)
+
+* Github: https://github.com/ashier
+* Website http://ashier.com
+
