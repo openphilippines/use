@@ -24,3 +24,8 @@
 
 * Github: https://github.com/zakame
 * Website: https://zakame.net
+
+## [Marconi Moreto](marconi.html)
+
+* Github: https://github.com/marconi
+* Website: http://marconijr.com/
