@@ -24,3 +24,9 @@
 
 * Github: https://github.com/zakame
 * Website: https://zakame.net
+
+## [Chad Estioco](skytreader.html)
+
+* Github: https://github.com/skytreader
+* Website: http://skytreader.net
+* Other links: http://kodeplay.skytreader.net
