@@ -29,3 +29,9 @@
 
 * Github: https://github.com/marconi
 * Website: http://marconijr.com/
+
+## [Chad Estioco](skytreader.html)
+
+* Github: https://github.com/skytreader
+* Website: http://skytreader.net
+* Other links: http://kodeplay.skytreader.net
