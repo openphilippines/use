@@ -39,3 +39,8 @@
 ## [Visnu Mathews](visnu.html)
 
 * Github: https://github.com/visnu
+
+## [Evan Dale Aromin](avendael.html)
+
+* Github: https://github.com/avendael
+* Website: http://avendael.com
