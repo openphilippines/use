@@ -44,3 +44,8 @@
 
 * Github: https://github.com/avendael
 * Website: http://avendael.com
+
+## [Luis R. Lavina Jr(chojayr.html)
+
+* Github: https://github.com/chojayr
+* Blog: http://chojayr.blogspot.com
