@@ -1,5 +1,7 @@
 # Phackers Use
 
+Know what Pinoy Tech Hackers use. [Add yourself.](https://github.com/phackers/use)
+
 ## [Mark Steve Samson](marksteve.html)
 
 * Github: https://github.com/marksteve
