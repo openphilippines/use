@@ -52,3 +52,7 @@ Know what [Pinoy Tech Hackers](https://www.facebook.com/groups/214546845336651) 
 
 * Github: https://github.com/chojayr
 * Blog: http://chojayr.blogspot.com
+
+## [B Magsipoc](404.html)
+
+* Github: https://github.com/keikun17
