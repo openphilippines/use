@@ -1,10 +1,10 @@
-# Phackers Use
+# Use
 
 What Pinoy Tech Hackers use.
 
 ## Adding yourself
 
-1. Fork phackers/use and add a `username.html` file containing this:
+1. Fork openphilippines/use and add a `username.html` file containing this:
 
   ```html
   ---
