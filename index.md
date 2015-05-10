@@ -6,17 +6,17 @@ Know what [Pinoy Tech Hackers](https://www.facebook.com/groups/214546845336651) 
 ## [Mark Steve Samson](marksteve.html)
 
 * Github: https://github.com/marksteve
-* Website http://marksteve.com
+* Website: http://marksteve.com
 
 ## [JM Ibanez](jmibanez.html)
 
 * Github: https://github.com/jmibanez
-* Website http://jmibanez.com/
+* Website: http://jmibanez.com/
 
 ## [Ashier de Leon](ashier.html)
 
 * Github: https://github.com/ashier
-* Website http://ashier.com
+* Website: http://ashier.com
 
 ## [Ealden Escañan](ealden.html)
 
