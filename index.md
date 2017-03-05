@@ -79,3 +79,9 @@ Know what [Pinoy Tech Hackers](https://www.facebook.com/groups/214546845336651) 
 
 * Github: https://github.com/FrancisMurillo
 * Website http://francismurillo.github.io
+
+## [Charo Nuguid](headgeekette.html)
+
+* Github: https://github.com/charonuguid
+* BitBucket: https://bitbucket.org/headgeekette
+* Website http://thegeekettespeaketh.com
